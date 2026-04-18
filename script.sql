@@ -1,0 +1,8 @@
+CREATE DATABASE github;
+
+CREATE TABLE tb_alunos ([
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    data_nascimento DATE NOT NULL
+]);
