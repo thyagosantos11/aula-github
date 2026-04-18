@@ -6,5 +6,5 @@
 - ``git add,``: Adiciona os arquivos/modificações realizados no próximo commit.
 - ``git commit m-``: criar o commit 
 - ``git log --oneline -n 2``: Retorna os dois ultimos commits mais recentes de forma resumida
-- ``git push origin main``: envia seus commits do repositório local para o remoto (branch ``main``
+- ``git push origin main``: envia seus commits do repositório local para o remoto (branch ``main``)
 - `` git pull origin main``: Baixa os commits do repositório remoto para o local (branch ``main``)
