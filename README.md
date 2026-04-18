@@ -8,3 +8,5 @@
 - ``git log --oneline -n 2``: Retorna os dois ultimos commits mais recentes de forma resumida
 - ``git push origin main``: envia seus commits do repositório local para o remoto (branch ``main``)
 - `` git pull origin main``: Baixa os commits do repositório remoto para o local (branch ``main``)
+- ``git checkout -b XYZ``: adicionar uma branch nova de nome ``XYZ``
+- ``git status``: Exibe o status dos arquivos 
